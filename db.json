@@ -1,8 +1,10 @@
-{
-   "people":[
-      {
-         "name":"Flavius",
-         "age":15
-      }
-   ]
-}
+[
+   {  
+      "people":[
+         {
+            "name":"Flavius",
+            "age":15
+         }
+      ]
+   }
+]
